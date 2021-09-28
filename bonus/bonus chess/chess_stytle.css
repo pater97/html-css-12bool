@@ -1,0 +1,10 @@
+.dark_brown{
+    background-color: #D18B46;
+}
+.light_brown{
+    background-color: #FECE9E;
+}
+section div{
+    border: 1px solid black;
+    height: 100px;
+}
