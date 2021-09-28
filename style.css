@@ -1,0 +1,18 @@
+main{
+    background-color: #FFC0CB;
+}
+
+.row div{
+    height: 200px;
+    border: 1px solid black;
+    text-align: center;
+    align-items: center;
+}
+.nested{
+    padding: 1rem;
+}
+.nested div{
+    background-color: #F07F80;
+    height: 100%;
+    border: 1px solid white;
+}
